@@ -1,0 +1,1 @@
+<h2>調査中<?php echo $debug;?></h2>

@@ -1,0 +1,23 @@
+#footer {
+	text-align: center;
+}
+
+.logo a {
+	text-decoration: none;
+}
+
+.logo a:link {
+	color: #222;
+}
+
+.logo a:visited {
+	color: #222;
+}
+
+.logo a:hover {
+	color: #1EAEDB;
+}
+
+.logo a:active {
+	color: #222;
+}
